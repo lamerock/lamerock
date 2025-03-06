@@ -22,7 +22,7 @@
 ![NPM](https://img.icons8.com/color/30/npm.png)
 ![Github](https://img.icons8.com/material-outlined/30/github.png)
 ![Git](https://img.icons8.com/color/30/git.png)
-![Visual Studio](https://img.icons8.com/color/30/visual-studio-2022)
+![Visual Studio](https://img.icons8.com/color/30/visual-studio--v2.png)
 ![VSCode](https://img.icons8.com/color/30/visual-studio-code-2019.png)
 ![Bootstrap](https://img.icons8.com/color/30/bootstrap.png)
 ![Console](https://img.icons8.com/color/30/console.png)
