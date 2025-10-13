@@ -2,7 +2,7 @@
 💻 Developer | 🔐 Reverse Engineer | ⚙️ IoT & Embedded Systems Enthusiast  
 🎓 Instructor | 🧠 DICT Trainer | 🛡️ Data Protection Advocate  
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&width=500&lines=Developer+%7C+Educator+%7C+Data+Protection+Officer;IoT+%26+Embedded+Systems+Enthusiast;Reverse+Engineer+%7C+Tech+Trainer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&width=800&lines=Developer+%7C+Educator+%7C+Data+Protection+Officer;IoT+%26+Embedded+Systems+Enthusiast;Reverse+Engineer+%7C+Tech+Trainer)](https://git.io/typing-svg)
 
 > “Hack the system. Understand the logic. Build something smarter.”  
 
