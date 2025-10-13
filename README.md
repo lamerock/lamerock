@@ -1,50 +1,73 @@
-# Hi! I am Jamz.  (:computer::coffee::heart::bulb:)
+# 👾 Hi! I’m Jamz  
+💻 Developer | 🔐 Reverse Engineer | ⚙️ Embedded & IoT Enthusiast  
 
-[![Facebook](https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/lamerock)
-[![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/RealLameRock)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gjpaglingayen)
-[![YouTube](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCMYl6bHuleTL3rgslygkcGg)
+> “Hack the system. Understand the logic. Build something smarter.”  
 
-## :wrench: Language and Tools
+---
 
-![Windows](https://img.icons8.com/color/30/windows-10.png)
-![Linux](https://img.icons8.com/color/30/linux.png)
-![Debian](https://img.icons8.com/color/30/debian.png)
-![Ubuntu](https://img.icons8.com/color/30/ubuntu--v1.png)
-![Kali Linux](https://img.icons8.com/color/30/kali-linux.png)
-![HTML5](https://img.icons8.com/color/30/html-5.png)
-![CSS3](https://img.icons8.com/color/30/css3.png)
-![JavaScript](https://img.icons8.com/color/30/javascript.png)
-![PHP](https://img.icons8.com/color/30/php.png)
-![WordPress](https://img.icons8.com/color/30/wordpress.png)
-![NodeJS](https://img.icons8.com/color/30/nodejs.png)
-![SASS](https://img.icons8.com/color/30/sass.png)
-![NPM](https://img.icons8.com/color/30/npm.png)
-![Github](https://img.icons8.com/material-outlined/30/github.png)
-![Git](https://img.icons8.com/color/30/git.png)
-![Visual Studio](https://img.icons8.com/color/30/visual-studio--v2.png)
-![VSCode](https://img.icons8.com/color/30/visual-studio-code-2019.png)
-![Bootstrap](https://img.icons8.com/color/30/bootstrap.png)
-![Console](https://img.icons8.com/color/30/console.png)
-![C++](https://img.icons8.com/color/30/c-plus-plus-logo.png)
-![C#](https://img.icons8.com/color/30/c-sharp-logo-2.png)
-![VB .Net](https://img.icons8.com/color/30/vb.png)
-<!--
-**lamerock/lamerock** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🧠 About Me
+- ⚡ Passionate about **C/C++**, **Python**, **PHP**, and **Reverse Engineering**
+- 🤖 Love building **IoT** and **Embedded Systems** projects  
+- 🧩 Creator of **UA-Link** – a tool for viewing course grades online  
+- 🧰 Constantly tinkering with **hardware, code, and security**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-![Flutter](https://img.icons8.com/color/30/flutter.png)
-![ReactJS](https://img.icons8.com/color/30/react-native.png)
-![AngularJS](https://img.icons8.com/color/30/angularjs.png)
-![Bitbucket](https://img.icons8.com/color/30/bitbucket.png)
-![Gitlab](https://img.icons8.com/color/30/gitlab.png)
--->
+### 🛠️ Languages & Tools
+
+![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?logo=kalilinux&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?logo=visualstudiocode&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white)
+
+---
+
+### 🧩 Featured Projects
+
+#### 🔗 [UA-Link](https://github.com/lamerock/ua-link)
+> A secure portal to view course grades and academic records.  
+Built with **PHP + MySQL** and modular for easy integration.
+
+#### ⚙️ [IoT Sensor Hub](https://github.com/lamerock/iot-sensor-hub)
+> An **Arduino + Node.js** setup for real-time sensor monitoring.  
+Supports **MQTT** and **GSM modules** for remote data logging.
+
+#### 🧠 [Reverse Engineering Toolkit](https://github.com/lamerock/re-toolkit)
+> A collection of **scripts and binaries** for disassembly, binary analysis, and firmware extraction.  
+Made for research, education, and ethical hacking.
+
+---
+
+### 📊 GitHub Analytics
+
+![Jamz' GitHub stats](https://github-readme-stats.vercel.app/api?username=lamerock&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lamerock&layout=compact&theme=radical)
+![trophy](https://github-profile-trophy.vercel.app/?username=lamerock&theme=onedark&no-frame=true&no-bg=true&margin-w=5)
+
+---
+
+### 🔗 Connect with Me
+
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)](https://facebook.com/lamerock)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/gjpaglingayen)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white)](https://youtube.com/@lamerock)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/lamerock)
+
+---
+
+### 🧬 System Info
+
+```bash
+OS      : Windows / Linux (Debian, Ubuntu, Kali)
+Editor  : VS Code, Visual Studio
+Stack   : C / C++ / Python / PHP / Node.js
+Focus   : Embedded Systems, IoT, Security, Reverse Engineering
