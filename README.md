@@ -4,7 +4,7 @@
 
 ### I build secure systems where **software, hardware, data, and real-world operations** meet.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-itkenyo.dev-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://itkenyo.dev)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-gjpaglingayen-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gjpaglingayen)
 [![Email](https://img.shields.io/badge/Email-Let's%20connect-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gjpaglingayen@gmail.com)
 [![Followers](https://img.shields.io/github/followers/lamerock?style=for-the-badge&logo=github&label=Followers)](https://github.com/lamerock?tab=followers)
