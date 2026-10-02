@@ -1,108 +1,150 @@
-# 👾 Hi! I’m Jamz  
-💻 Developer | 🔐 Reverse Engineer | ⚙️ IoT & Embedded Systems Enthusiast  
-🎓 Instructor | 🧠 DICT Trainer | 🛡️ Data Protection Advocate  
+<div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&width=800&lines=Developer+%7C+Educator+%7C+Data+Protection+Officer;IoT+%26+Embedded+Systems+Enthusiast;Reverse+Engineer+%7C+Tech+Trainer)](https://git.io/typing-svg)
+# Gerard James B. Paglingayen
 
-> “Hack the system. Understand the logic. Build something smarter.”  
+### Cybersecurity · Full-Stack Engineering · Applied AI · IoT · IT Project Delivery
 
----
+**I build secure, practical technology systems — from web applications and mobile ML to embedded automation and institutional IT.**
 
-### 🧠 About Me
-I’m an educator, developer, and cybersecurity advocate passionate about **technology, privacy, and innovation**.  
-With more than a decade of experience in academia, IT management, and national ICT training, I aim to bridge **deep technical knowledge** and **practical application** — from code to classroom.
+[![GitHub](https://img.shields.io/badge/GitHub-lamerock-181717?style=flat-square&logo=github)](https://github.com/lamerock)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-gjpaglingayen-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gjpaglingayen)
+[![Portfolio](https://img.shields.io/badge/Portfolio-itkenyo.dev-111827?style=flat-square&logo=googlechrome&logoColor=white)](http://itkenyo.dev)
+[![Email](https://img.shields.io/badge/Email-gjpaglingayen%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:gjpaglingayen@gmail.com)
 
-- 💡 **DICT Trainer** – *Python Programming Essentials* & *Government Web Template (WordPress)*  
-- 🎓 **University Instructor** – teaching **BSCpE**, **BSCS**, and **BSIT** (2009–2025)  
-- 🛡️ **Former Data Protection Officer** – University of Antique  
-  - *Certified Data Protection Officer ACE Level 1* — National Privacy Commission  
-- 🧩 **Former Director** – Management Information System, University of Antique  
-- 📊 **Former Director** – Institutional Planning and Development, University of Antique  
-- 🎯 **Former OIC-Dean** – College of Computer Studies, University of Antique  
+</div>
 
 ---
 
-### 🎓 Trainings & Workshops Attended
+## 👋 About me
 
-| Program / Workshop | Organizer |
-|--------------------|------------|
-| 🐍 **Python Programming: Applied Object Detection using Deep Learning from Zero to Hero** | ICPeP |
-| 🧩 **Basic Concepts and Functions on CERT Operations** | DICT |
-| 💡 **Digital Transformative Technologies Training** | DICT |
-| 🌐 **ELEMENTOR: Website Builder Plugin for WordPress** | DICT |
-| 🔐 **Data Privacy Protection Workshop** | DICT |
-| 📊 **Data Driven Governance Workshop** | DICT |
+I’m a technology professional with experience spanning cybersecurity, data privacy, software and web development, information systems, IT operations, technical training, and institutional technology leadership.
+
+My background combines **hands-on engineering** with **governance and project delivery**. I have served as a Computer Engineering instructor, Data Protection Officer, Director of Management Information Systems, institutional planning director, and DICT technical trainer.
+
+Today, my work sits at the intersection of **secure software**, **applied AI**, **connected devices**, and **real-world automation**.
 
 ---
 
-### 🧰 Tech Stack & Tools
+## ⚡ What I bring
 
-![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
-![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?logo=kalilinux&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?logo=visualstudiocode&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+| | Area | What I work on |
+|---|---|---|
+| 🔐 | **Cybersecurity & Data Protection** | Application security, risk assessment, incident response, privacy compliance, secure sessions, CSRF protection, ISO/IEC 27001 concepts |
+| 💻 | **Full-Stack Development** | PHP/MySQL applications, Laravel, React, Next.js, Flask, JavaScript, Bootstrap, WordPress |
+| 🧠 | **Applied AI & Computer Vision** | TensorFlow, Keras, TensorFlow Lite, CNNs, YOLOv5/YOLOv8, on-device inference |
+| ⚙️ | **Embedded Systems & IoT** | Arduino, Raspberry Pi, sensors, GSM, relays, automation, device-to-app integration |
+| 🧭 | **IT Project Delivery** | Information systems, IT operations, digital governance, stakeholder coordination, Git/GitHub, Kanban |
 
 ---
 
-### 🔬 Focus Areas
-- ⚙️ **Embedded Systems**
-- 🌐 **Internet of Things (IoT)**
-- 🧩 **Reverse Engineering**
-- 🧱 **Web Development (PHP, WordPress)**
-- 🔐 **Data Privacy & Information Security**
-- 🧠 **Deep Learning Applications**
+## 🚀 Selected engineering work
+
+### Secure Faculty Document & Requirements Management System · 2025
+**Full-Stack PHP Developer / Application Security**
+
+Built and maintained a PHP/MySQL application for faculty document submission, requirements tracking, profiles, notifications, and administrative approvals.
+
+`PHP` `MySQL` `Bootstrap` `JavaScript` `PowerShell` `CSRF Protection` `Request Validation` `Session Security`
 
 ---
 
-### 🧩 Featured Projects
+### AI-Powered Rice Leaf Assessment & Smart Irrigation · 2024
+**Mobile / Machine Learning / IoT Developer**
 
-#### 🔗 [UA-Link](https://github.com/lamerock/ua-link)
-> A secure web-based portal to view course grades and academic records.  
-Built with **PHP + MySQL**, modular, and integrable with university systems.
+Developed a TensorFlow/Keras CNN for rice-leaf nutrient-deficiency classification, deployed it to Android with TensorFlow Lite, and connected the Kotlin app to an Arduino Uno R4 WiFi for automated irrigation control.
 
-#### ⚙️ [IoT Sensor Hub](https://github.com/lamerock/iot-sensor-hub)
-> Real-time IoT data acquisition system using **Arduino + Node.js + GSM/MQTT**.  
-Designed for distributed sensor networks and environmental monitoring.
-
-#### 🧠 [Reverse Engineering Toolkit](https://github.com/lamerock/re-toolkit)
-> A collection of **scripts and binaries** for firmware analysis, disassembly, and binary research.  
-Developed for **education and ethical hacking** purposes.
+`Kotlin` `Android SDK` `Python` `TensorFlow` `Keras` `TensorFlow Lite` `OkHttp` `Arduino` `Computer Vision`
 
 ---
 
-### 📊 GitHub Analytics
+### Automated Agricultural Drying & Monitoring System · 2025
+**Embedded Systems / IoT Developer**
 
-![Jamz' GitHub stats](https://github-readme-stats.vercel.app/api?username=lamerock&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lamerock&layout=compact&theme=radical)
-![trophy](https://github-profile-trophy.vercel.app/?username=lamerock&theme=onedark&no-frame=true&no-bg=true&margin-w=5)
+Developed a sensor-driven drying system with temperature/humidity monitoring, load-cell measurement, RTC scheduling, GSM communication, relay-controlled ventilation, moisture calculations, and automated SMS reporting.
 
----
-
-### 🔗 Connect with Me
-
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)](https://facebook.com/lamerock)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/gjpaglingayen)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white)](https://youtube.com/@lamerock)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/lamerock)
+`Arduino` `C++` `DHT22` `HX711` `DS3231` `GSM` `I2C` `Relay Control` `Process Automation`
 
 ---
 
-### 🧬 System Info
+## 🧰 Public projects
 
-```bash
-OS      : Windows / Linux (Debian, Ubuntu, Kali)
-Editor  : VS Code, Visual Studio
-Stack   : C / C++ / Python / PHP / Node.js
-Focus   : IoT, Embedded Systems, Web Security, Reverse Engineering
-Trainer : DICT Python Programming Essentials, Gov’t Web Template (WordPress)
-Cert    : Data Protection Officer ACE Level 1 – NPC
+| Project | What it demonstrates | Stack |
+|---|---|---|
+| [**GPS Impact Detection System**](https://github.com/lamerock/GPS-Impact-Detection-System) | Detects impacts, acquires GPS coordinates, and sends SMS location alerts | C++ · Arduino · GPS · GSM · FSR |
+| [**Flood Detector**](https://github.com/lamerock/Flood-Detector) | Monitors water level and sends staged GSM/SMS flood alerts | C++ · Arduino · Ultrasonic Sensor · GSM |
+| [**UA Link Site Prototype**](https://github.com/ua-devs/site_prototype) | Prototype for a university-facing kiosk/web application | PHP |
+| [**LRTelDir**](https://github.com/lamerock/LRTelDir) | Simple desktop telephone-directory application | C# |
+| [**Philippine Government Web Template**](https://github.com/lamerock/pgwt-wordpress) | WordPress work around the Philippine Government Web Template ecosystem | PHP · WordPress |
+
+---
+
+## 🔬 Research & intellectual property
+
+- **Real-Time Automated Hand-Vote Counting System** — InnoCon Publishing, 2025  
+  Raspberry Pi + YOLOv5/YOLOv8 nano models for automated raised-hand detection and real-time vote counting.  
+  [DOI: 10.69478/BEST2025v1n2a031](https://doi.org/10.69478/BEST2025v1n2a031)
+
+- **AIDeM: Artificial Intelligence-based Dengue Mosquito Catching Device** — InnoCon Publishing, 2025  
+  YOLOv8 on Raspberry Pi with MongoDB-backed data storage for AI-assisted mosquito detection and monitoring.  
+  [DOI: 10.69478/BEST2025v1n2a032](https://doi.org/10.69478/BEST2025v1n2a032)
+
+- **Deep Learning Application of Automated Facemask Classification and Physical-Distancing Detection** — IEEE, 2021
+
+- **Real-Time Flood Water Level Monitoring and Warning System** — Philippine Patent No. 1/2020/050326, issued 2020
+
+---
+
+## 🛠 Technology toolbox
+
+**Languages**  
+`Python` `C++` `C#` `PHP` `Java` `Kotlin` `JavaScript` `PowerShell`
+
+**Web & application development**  
+`Laravel` `React` `Next.js` `Flask` `MySQL` `Bootstrap` `WordPress` `HTML` `CSS`
+
+**AI, mobile & connected systems**  
+`TensorFlow` `Keras` `TensorFlow Lite` `Android SDK` `OkHttp` `Arduino` `Raspberry Pi` `MongoDB` `YOLOv5` `YOLOv8`
+
+**Security & delivery**  
+`Application Security` `Data Privacy` `Risk Assessment` `Incident Response` `Git` `GitHub` `GitHub Projects` `Kanban`
+
+---
+
+## 🎓 Experience highlights
+
+- **Instructor, Computer Engineering** — University of Antique, 2009–2025
+- **Director / OIC-Director, Management Information Systems** — University of Antique, 2017–2019
+- **Director, Institutional Planning and Development** — University of Antique, 2018–2019
+- **Data Protection Officer** — University of Antique, 2019–2022
+- **Trainer, Government Web Template** — DICT, 2021
+- **Resource Person, Python Programming Essentials** — DICT, 2021
+
+---
+
+## 🏅 Selected credentials
+
+- **Computer Security Incident Handling Level 1** — TESDA, 2025
+- **Programming (Java) NC III** — TESDA, 2024
+- **Certified Data Protection Officer — DPO ACE Level 1** — National Privacy Commission, 2019
+- **Certified Secure Computer User v2** — EC-Council, 2017
+
+---
+
+## 📈 GitHub snapshot
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=lamerock&show_icons=true&hide_border=true&rank_icon=github" alt="GitHub stats for lamerock" height="165">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lamerock&layout=compact&hide_border=true&langs_count=8" alt="Most used languages for lamerock" height="165">
+
+</div>
+
+---
+
+<div align="center">
+
+### Build securely. Automate intelligently. Ship technology that solves real problems.
+
+**Philippines · [GitHub](https://github.com/lamerock) · [LinkedIn](https://www.linkedin.com/in/gjpaglingayen) · [Portfolio](http://itkenyo.dev) · [Email](mailto:gjpaglingayen@gmail.com)**
+
+</div>
