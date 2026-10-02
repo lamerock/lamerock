@@ -1,73 +1,99 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=6,12,20&text=G.%20J.%20P.&fontSize=42&fontAlignY=36&desc=Cybersecurity%20%E2%80%A2%20Full-Stack%20%E2%80%A2%20IoT%20%E2%80%A2%20IT%20Project%20Delivery&descAlignY=57&animation=fadeIn" alt="Gerard James Paglingayen banner" />
+# `> G. J. P. // LAMEROCK`
 
-### I build secure systems where **software, hardware, data, and real-world operations** meet.
+```text
+┌──────────────────────────────────────────────────────────────────────┐
+│  NODE        : lamerock                                             │
+│  IDENTITY    : G. J. P.                                             │
+│  MODE        : SECURITY-FIRST                                       │
+│  STATUS      : ONLINE                                               │
+│  SIGNAL      : CYBERSECURITY // FULL-STACK // IoT // APPLIED AI    │
+└──────────────────────────────────────────────────────────────────────┘
+```
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-lamerock.github.io-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://lamerock.github.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-gjpaglingayen-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gjpaglingayen)
-[![Followers](https://img.shields.io/github/followers/lamerock?style=for-the-badge&logo=github&label=Followers)](https://github.com/lamerock?tab=followers)
-![Profile Views](https://komarev.com/ghpvc/?username=lamerock&style=for-the-badge&color=7c3aed)
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=1500&pause=400&color=00FFF0&center=true&vCenter=true&repeat=true&width=950&lines=%5BBOOT%5D+INITIALIZING+LAMEROCK.NODE...;%5BOK%5D+CYBERSECURITY+MODULE+ONLINE;%5BOK%5D+FULL-STACK+%2F+IoT+%2F+AI+PIPELINES+LOADED;%5BWARN%5D+ATTACK+SURFACE+NEVER+SLEEPS;%5BEXEC%5D+BUILD+SECURE+%2F%2F+SHIP+USEFUL+%2F%2F+AUTOMATE+SMART" alt="Terminal typing animation" />
+
+<br/>
+
+[![PORTFOLIO](https://img.shields.io/badge/%3E__PORTFOLIO-lamerock.github.io-05070D?style=for-the-badge&labelColor=05070D&color=FF00D4)](https://lamerock.github.io)
+[![GITHUB](https://img.shields.io/badge/%3E__GITHUB-@lamerock-05070D?style=for-the-badge&logo=github&logoColor=00FFF0&labelColor=05070D&color=00FFF0)](https://github.com/lamerock)
+[![LINKEDIN](https://img.shields.io/badge/%3E__LINKEDIN-gjpaglingayen-05070D?style=for-the-badge&logo=linkedin&logoColor=FF00D4&labelColor=05070D&color=FF00D4)](https://www.linkedin.com/in/gjpaglingayen)
+![TRACE COUNT](https://komarev.com/ghpvc/?username=lamerock&style=for-the-badge&label=%3E__TRACE_COUNT&color=00FFF0&labelColor=05070D)
 
 </div>
 
 ---
 
-## `whoami`
+## `root@lamerock:~# whoami`
 
-```text
-G. J. P.
-Technology Professional · Computer Engineer · Developer · Trainer
-
-15+ years across:
-cybersecurity / data privacy / full-stack development / information systems /
-IT operations / project delivery / technical training / IoT / applied AI
+```yaml
+name: G. J. P.
+handle: lamerock
+class: Technology Professional
+discipline:
+  - Cybersecurity
+  - Data Privacy
+  - Full-Stack Development
+  - Information Systems
+  - IoT / Embedded Systems
+  - Applied AI / Computer Vision
+  - IT Project Delivery
+directive: BUILD_SECURE_SYSTEMS
 ```
 
-I turn technical problems into practical systems — from hardened PHP/MySQL applications and institutional ICT projects to Android + TensorFlow Lite deployments, Arduino automation, and Raspberry Pi computer-vision research.
+> **I build secure systems where code, hardware, data, and real-world operations collide.**
 
-My background spans hands-on engineering and technology leadership, including service as a **Data Protection Officer**, **Director of Management Information Systems**, institutional planning leadership, and **DICT technical trainer**.
+My work spans application security, privacy, full-stack systems, institutional IT, Android + TensorFlow Lite, Arduino automation, Raspberry Pi computer vision, technical training, and technology project delivery.
+
+---
+
+## `root@lamerock:~# cat capability_matrix.sys`
 
 <table>
 <tr>
 <td width="25%" valign="top">
 
-### 🛡️ Secure
-Application security  
-Data privacy  
-Risk assessment  
-Incident response  
-ISO/IEC 27001
+### `[SEC]`
+`APP_SECURITY`  
+`DATA_PRIVACY`  
+`RISK_ASSESSMENT`  
+`INCIDENT_RESPONSE`  
+`ISO_27001`  
+`AUTH_SESSION`
 
 </td>
 <td width="25%" valign="top">
 
-### 💻 Build
-PHP / Laravel  
-React / Next.js  
-Python / Flask  
-MySQL  
-JavaScript
+### `[DEV]`
+`PHP / LARAVEL`  
+`REACT / NEXT.JS`  
+`PYTHON / FLASK`  
+`MYSQL`  
+`JAVASCRIPT`  
+`WORDPRESS`
 
 </td>
 <td width="25%" valign="top">
 
-### 🤖 Automate
-Android / Kotlin  
-TensorFlow Lite  
-Arduino  
-Raspberry Pi  
-Computer Vision
+### `[IOT]`
+`ANDROID / KOTLIN`  
+`TENSORFLOW_LITE`  
+`ARDUINO`  
+`RASPBERRY_PI`  
+`SENSORS`  
+`COMPUTER_VISION`
 
 </td>
 <td width="25%" valign="top">
 
-### 🧭 Deliver
-IT project management  
-Digital governance  
-GitHub Projects  
-Kanban workflows  
-Stakeholder coordination
+### `[OPS]`
+`IT_PROJECTS`  
+`DIGITAL_GOV`  
+`GIT / GITHUB`  
+`GITHUB_PROJECTS`  
+`KANBAN`  
+`STAKEHOLDERS`
 
 </td>
 </tr>
@@ -75,46 +101,50 @@ Stakeholder coordination
 
 ---
 
-## ⚡ Featured public work
+## `root@lamerock:~# ls -lah ./public_deployments`
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🚨 [GPS Impact Detection System](https://github.com/lamerock/GPS-Impact-Detection-System)
+### `01 // GPS-IMPACT-DETECTION`
+**[OPEN_REPOSITORY →](https://github.com/lamerock/GPS-Impact-Detection-System)**
 
-Arduino-based accident detection using an FSR sensor, GPS, and GSM to send SMS alerts with live location coordinates.
+Accident detection stack using force sensing, GPS, and GSM to transmit SMS alerts with live coordinates.
 
-`C++` `Arduino` `GPS` `GSM` `Embedded Systems`
+`C++` `ARDUINO` `GPS` `GSM` `EMBEDDED`
 
 </td>
 <td width="50%" valign="top">
 
-### 🌊 [Flood Detector](https://github.com/lamerock/Flood-Detector)
+### `02 // FLOOD-DETECTOR`
+**[OPEN_REPOSITORY →](https://github.com/lamerock/Flood-Detector)**
 
-GSM-based flood monitoring using gizDuino, SIM900D, and ultrasonic sensing with automated multi-recipient SMS alerts.
+Flood monitoring and automated emergency notification using gizDuino, SIM900D, and ultrasonic sensing.
 
-`C++` `Arduino` `GSM` `Sensors` `Disaster Tech`
+`C++` `ARDUINO` `GSM` `SENSORS` `DISASTER-TECH`
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🏛️ [Government Web Template](https://github.com/lamerock/gwt-wordpress)
+### `03 // GWT-WORDPRESS`
+**[OPEN_REPOSITORY →](https://github.com/lamerock/gwt-wordpress)**
 
-Work around the Philippine Government Web Template for WordPress, supporting accessible and citizen-centered government websites.
+Philippine Government Web Template work for WordPress, supporting accessible and citizen-centered public-sector websites.
 
-`PHP` `WordPress` `Web Accessibility` `Digital Government`
+`PHP` `WORDPRESS` `ACCESSIBILITY` `GOVTECH`
 
 </td>
 <td width="50%" valign="top">
 
-### 📞 [LRTelDir](https://github.com/lamerock/LRTelDir)
+### `04 // LRTELDIR`
+**[OPEN_REPOSITORY →](https://github.com/lamerock/LRTelDir)**
 
-A lightweight telephone-directory application built in C#.
+Lightweight telephone-directory application built with C#.
 
-`C#` `.NET` `Desktop Development`
+`C#` `.NET` `DESKTOP`
 
 </td>
 </tr>
@@ -122,101 +152,129 @@ A lightweight telephone-directory application built in C#.
 
 ---
 
-## 🧪 Selected engineering work
+## `root@lamerock:~# ./scan_engineering_dossier.sh`
 
-### 🔐 Faculty Document Submission & Requirements Management System
-**Full-Stack PHP Developer / Application Security · 2025**
+```text
+[+] TARGET_01 : FACULTY DOCUMENT SUBMISSION + REQUIREMENTS MANAGEMENT
+    ROLE      : FULL-STACK PHP / APPLICATION SECURITY
+    STACK     : PHP / MYSQL / BOOTSTRAP / JAVASCRIPT / POWERSHELL
+    HARDENING : CSRF / REQUEST VALIDATION / SESSION CONTROL / POST PROTECTION
 
-Built and hardened a PHP/MySQL workflow system for faculty submissions, requirements tracking, notifications, profiles, and administrative approvals. Security work included centralized request validation, CSRF protection, authenticated session testing, and protection of state-changing operations.
+[+] TARGET_02 : AI RICE-LEAF NUTRIENT ASSESSMENT + SMART IRRIGATION
+    ROLE      : MOBILE / ML / IoT
+    STACK     : KOTLIN / ANDROID / TENSORFLOW LITE / ARDUINO / HTTP
+    PIPELINE  : CNN CLASSIFICATION -> EDGE INFERENCE -> IRRIGATION CONTROL
 
-### 🌾 AI-Powered Rice Leaf Nutrient Assessment & Smart Irrigation
-**Mobile / Machine Learning / IoT Developer · 2024**
-
-Developed a TensorFlow/Keras CNN for rice-leaf nutrient classification, deployed it on Android with TensorFlow Lite, and connected the mobile app to an Arduino Uno R4 WiFi to control irrigation pumps over HTTP.
-
-### 🌡️ Automated Agricultural Drying & Monitoring System
-**Embedded Systems / IoT Developer · 2025**
-
-Integrated temperature/humidity sensing, load-cell measurement, RTC, LCD, GSM communication, and relay-controlled ventilation into a state-driven drying and monitoring workflow with automated SMS reporting.
-
----
-
-## 📚 Research, publications & IP
-
-- **[Real-Time Automated Hand-Vote Counting System](https://doi.org/10.69478/BEST2025v1n2a031)** — Raspberry Pi + YOLOv5/YOLOv8 computer vision; published July 2025.
-- **[AIDeM: Artificial Intelligence-based Dengue Mosquito Catching Device](https://doi.org/10.69478/BEST2025v1n2a032)** — YOLOv8 + Raspberry Pi + MongoDB; published July 2025.
-- **Deep Learning Application of Automated Facemask Classification and Physical-Distancing Detection** — IEEE, 2021.
-- **Real-Time Flood Water Level Monitoring and Warning System** — Patent No. `1/2020/050326`, issued 2020.
+[+] TARGET_03 : AUTOMATED AGRICULTURAL DRYING + MONITORING
+    ROLE      : EMBEDDED SYSTEMS / IoT
+    STACK     : ARDUINO / DHT22 / HX711 / RTC / GSM / RELAYS
+    PIPELINE  : SENSE -> CALCULATE -> CONTROL -> REPORT
+```
 
 ---
 
-## 🧰 Technology stack
+## `root@lamerock:~# query research.db --latest`
+
+- **[Real-Time Automated Hand-Vote Counting System](https://doi.org/10.69478/BEST2025v1n2a031)**  
+  Raspberry Pi + YOLOv5/YOLOv8 nano models for automated raised-hand detection and real-time vote counting.
+
+- **[AIDeM: Artificial Intelligence-based Dengue Mosquito Catching Device](https://doi.org/10.69478/BEST2025v1n2a032)**  
+  YOLOv8 + Raspberry Pi + MongoDB for AI-assisted mosquito catching and monitoring.
+
+- **Deep Learning Application of Automated Facemask Classification and Physical-Distancing Detection**  
+  IEEE, 2021.
+
+- **Real-Time Flood Water Level Monitoring and Warning System**  
+  Patent No. `1/2020/050326`, issued 2020.
+
+---
+
+## `root@lamerock:~# ./loadout --verbose`
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,cpp,cs,php,java,kotlin,js,laravel,react,nextjs,flask,mysql,html,css,bootstrap,arduino,raspberrypi,git,github,linux,vscode&perline=11" alt="Technology stack" />
+<img src="https://skillicons.dev/icons?i=python,cpp,cs,php,java,kotlin,js,laravel,react,nextjs,flask,mysql,html,css,bootstrap,wordpress,arduino,raspberrypi,git,github,linux,vscode&perline=11&theme=dark" alt="Technology stack" />
 
 <br/><br/>
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
-![ISO 27001](https://img.shields.io/badge/ISO%2FIEC%2027001-Information%20Security-334155?style=flat-square)
-![Kanban](https://img.shields.io/badge/Kanban-Project%20Delivery-7C3AED?style=flat-square)
+![TensorFlow](https://img.shields.io/badge/TENSORFLOW-05070D?style=for-the-badge&logo=tensorflow&logoColor=FF00D4)
+![Android](https://img.shields.io/badge/ANDROID-05070D?style=for-the-badge&logo=android&logoColor=00FFF0)
+![PowerShell](https://img.shields.io/badge/POWERSHELL-05070D?style=for-the-badge&logo=powershell&logoColor=FF00D4)
+![ISO 27001](https://img.shields.io/badge/ISO%2FIEC_27001-05070D?style=for-the-badge&logoColor=00FFF0)
+![GitHub Projects](https://img.shields.io/badge/GITHUB_PROJECTS-05070D?style=for-the-badge&logo=github&logoColor=FF00D4)
+![Kanban](https://img.shields.io/badge/KANBAN-05070D?style=for-the-badge&logo=trello&logoColor=00FFF0)
 
 </div>
 
 ---
 
-## 📊 GitHub telemetry
+## `root@lamerock:~# ./github_telemetry --live`
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=lamerock&show_icons=true&include_all_commits=true&rank_icon=github&hide_border=true&theme=tokyonight" alt="Gerard's GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lamerock&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" alt="Gerard's top languages" />
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=lamerock&show_icons=true&include_all_commits=true&rank_icon=github&hide_border=true&theme=radical&bg_color=05070D&title_color=FF00D4&icon_color=00FFF0&text_color=D8FDFB" alt="GitHub stats" />
+
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lamerock&layout=compact&langs_count=8&hide_border=true&theme=radical&bg_color=05070D&title_color=FF00D4&text_color=D8FDFB" alt="Top languages" />
 
 <br/>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=lamerock&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
-
-<br/>
-
-<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=lamerock&theme=tokyo-night&hide_border=true&area=true" alt="GitHub contribution activity graph" />
+<img width="72%" src="https://streak-stats.demolab.com?user=lamerock&theme=radical&hide_border=true&background=05070D&ring=FF00D4&fire=00FFF0&currStreakLabel=00FFF0" alt="GitHub streak" />
 
 </div>
 
-> Stats are generated from public GitHub activity and update automatically.
+### `> ./activity_graph --source=github`
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-insight-terminal-asci.vercel.app/svg/graph?user=lamerock&theme=ubuntu" alt="GitHub contribution activity graph" />
+
+</div>
+
+```text
+SOURCE  : PUBLIC GITHUB CONTRIBUTION DATA
+STYLE   : TERMINAL / ASCII
+MODE    : LIVE
+```
 
 ---
 
-## 🏅 Credentials
+## `root@lamerock:~# cat credentials.log`
 
-`TESDA Computer Security Incident Handling Level 1 · 2025`  
-`TESDA Programming (Java) NC III · 2024`  
-`Certified Data Protection Officer — NPC DPO ACE Level 1 · 2019`  
-`EC-Council Certified Secure Computer User v2 · 2017`  
-`Civil Service Professional · 2009`
+```text
+[2025] TESDA      :: Computer Security Incident Handling Level 1
+[2024] TESDA      :: Programming (Java) NC III
+[2019] NPC        :: Certified Data Protection Officer — DPO ACE Level 1
+[2017] EC-COUNCIL :: Certified Secure Computer User v2
+[2009] CSC        :: Civil Service Professional
+```
 
 ---
 
-## 🎓 From code to classroom
+## `root@lamerock:~# history | tail`
 
-For 15+ years, I worked in higher education across programming, software engineering, web development, embedded systems, cybersecurity, capstone mentoring, curriculum development, and institutional technology initiatives.
-
-I have also delivered **DICT** training in **Python Programming Essentials** and the **Government Web Template**, covering deployment, hosting, web accessibility, security practices, WordPress, and practical application development.
+```text
+> delivered programming / software engineering / web / embedded / cybersecurity instruction
+> mentored technical projects from requirements through deployment
+> led institutional ICT systems and technology initiatives
+> served in data-protection and information-systems leadership roles
+> delivered DICT Python Programming Essentials training
+> delivered DICT Government Web Template training
+> built commissioned full-stack / ML / IoT systems
+> published applied computer-vision research
+```
 
 ---
 
 <div align="center">
 
-### `build secure · ship useful · automate intelligently · teach what works`
+```text
+╔══════════════════════════════════════════════════════════════════╗
+║  SIGNAL LOCKED :: G. J. P.                                     ║
+║  BUILD_SECURE // SHIP_USEFUL // AUTOMATE_SMART // KEEP_LEARNING ║
+╚══════════════════════════════════════════════════════════════════╝
+```
 
-**Open to conversations around cybersecurity, full-stack systems, IoT/embedded development, applied AI, and technology project delivery.**
-
-[![GitHub](https://img.shields.io/badge/GitHub-@lamerock-181717?style=for-the-badge&logo=github)](https://github.com/lamerock)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gjpaglingayen)
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=gradient&customColorList=6,12,20" alt="" />
+[![GITHUB](https://img.shields.io/badge/%3E__OPEN_CHANNEL-GitHub-05070D?style=for-the-badge&logo=github&logoColor=00FFF0&labelColor=05070D&color=00FFF0)](https://github.com/lamerock)
+[![LINKEDIN](https://img.shields.io/badge/%3E__OPEN_CHANNEL-LinkedIn-05070D?style=for-the-badge&logo=linkedin&logoColor=FF00D4&labelColor=05070D&color=FF00D4)](https://www.linkedin.com/in/gjpaglingayen)
 
 </div>
