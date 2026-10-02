@@ -8,7 +8,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-lamerock-181717?style=flat-square&logo=github)](https://github.com/lamerock)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-gjpaglingayen-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gjpaglingayen)
-[![Portfolio](https://img.shields.io/badge/Portfolio-itkenyo.dev-111827?style=flat-square&logo=googlechrome&logoColor=white)](http://itkenyo.dev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-lamerock.github.io-111827?style=flat-square&logo=googlechrome&logoColor=white)](https://lamerock.github.io)
 [![Email](https://img.shields.io/badge/Email-gjpaglingayen%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:gjpaglingayen@gmail.com)
 
 </div>
@@ -145,6 +145,6 @@ Developed a sensor-driven drying system with temperature/humidity monitoring, lo
 
 ### Build securely. Automate intelligently. Ship technology that solves real problems.
 
-**Philippines · [GitHub](https://github.com/lamerock) · [LinkedIn](https://www.linkedin.com/in/gjpaglingayen) · [Portfolio](http://itkenyo.dev) · [Email](mailto:gjpaglingayen@gmail.com)**
+**Philippines · [GitHub](https://github.com/lamerock) · [LinkedIn](https://www.linkedin.com/in/gjpaglingayen) · [Portfolio](https://lamerock.github.io) · [Email](mailto:gjpaglingayen@gmail.com)**
 
 </div>
