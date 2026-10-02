@@ -1,6 +1,6 @@
 <div align="center">
 
-# Gerard James B. Paglingayen
+# G. J. P.
 
 ### Cybersecurity · Full-Stack Engineering · Applied AI · IoT · IT Project Delivery
 
